@@ -4,6 +4,7 @@ This club is for students who want to learn how to create video games with Unity
 
 ### I. Installing Unity
 1. Download Unity Hub from [here](https://unity.com/download).
-
+2. Once download completed, install Unity Hub.
+3. Once installation completed, open Unity Hub. On the right side of the int
 
 
