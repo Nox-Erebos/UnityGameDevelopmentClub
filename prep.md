@@ -5,3 +5,7 @@
 4. Click on the Installs tab on the left side of the Unity Hub window.
 5. Click on the **Install Editor** button on the right side of the window and select the Unity version **2021.3.29f1 LTS**. Make sure to check **Visual Studio** and check **Mac Build Support** or **Windows Build Support** according to your device.
 6. Click **Install**.
+
+### II. Creating a GitHub repository
+1. If you don’t have it already, sign up a [Github](https://github.com) account.
+2. 
