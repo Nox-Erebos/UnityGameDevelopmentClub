@@ -4,4 +4,4 @@ This club is for students who want to learn how to create video games with Unity
 
 ### I. [Preparation](prep.md)
 
-### II. [Syllabus](syllabus.md)
+### II. [Syllabus]([syllabus.md](https://github.com/pangnasun/GameDevelopmentClub/blob/main/PangnaSun_Syllabus%20for%20Unity%20Game%20Development%20Club.pdf)https://github.com/pangnasun/GameDevelopmentClub/blob/main/PangnaSun_Syllabus%20for%20Unity%20Game%20Development%20Club.pdf)
