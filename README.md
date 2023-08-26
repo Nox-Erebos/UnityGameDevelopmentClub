@@ -6,3 +6,4 @@ This club is for students who want to learn how to create video games with Unity
 
 ### II. [Preparation](prep.md)
 
+### III. [Weekly Asssingments](assignments.md) 
