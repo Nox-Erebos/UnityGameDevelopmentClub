@@ -6,4 +6,4 @@ This club is for students who want to learn how to create video games with Unity
 
 #### II. [Preparation](prep.md) : A guide to installing Unity and setting up a Github repository
 
-#### III. [Weekly Schedule](schedule.md) : Includes topics and homework for each week
+#### III. [Weekly Schedule](schedule.md) : Includes topics covered and homework for each week
