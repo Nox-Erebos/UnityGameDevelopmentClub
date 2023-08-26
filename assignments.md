@@ -1,3 +1,0 @@
-## Weekly Assignments
-
-### Due Wednesday 
