@@ -13,7 +13,7 @@
 * Create a detailed terrain with various landforms and textures. Add various gameobjects to you scene as well. Let your creavity run wild! You will be presenting it on Wednesday.
 * If you haven't done so already, please set up a GitHub account and repository for this club. Here is the [Guide](prep.md). Don't forget to email your Github repository link to me.
 ---
-### Week 2 - Intro to Club and Getting Start with Unity
+### Week 2 - Documentation and Diving Deeper into Unity
 *Aug 26 & Sep 2*
 
 **Topics Covered**
