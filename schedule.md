@@ -14,7 +14,7 @@
 * If you haven't done so already, please set up a GitHub account and repository for this club. Here is the [Guide](prep.md). Don't forget to email your Github repository link to me.
 ---
 ### Week 2 - Documentation and Diving Deeper into Unity
-*Aug 26 & Sep 2*
+*Aug 30 & Sep 2*
 
 **Topics Covered**
 * Documentation on GitHub
