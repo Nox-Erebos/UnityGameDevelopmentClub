@@ -4,8 +4,6 @@ This club is for students who want to learn how to create video games with Unity
 
 #### I. [Syllabus](https://github.com/pangnasun/GameDevelopmentClub/blob/main/PangnaSun_Syllabus%20for%20Unity%20Game%20Development%20Club.pdf)
 
-#### II. [Preparation](prep.md)
-A Guide to Installing Unity and Setting Up a Github Repository
+#### II. [Preparation](prep.md) : A Guide to Installing Unity and Setting Up a Github Repository
 
-#### III. [Weekly Schedule](schedule.md) 
-Includes topics and homework for each week
+#### III. [Weekly Schedule](schedule.md) : Includes topics and homework for each week
