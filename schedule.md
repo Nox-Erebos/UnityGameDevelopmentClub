@@ -11,4 +11,4 @@
 
 **Assignments** *Due Wednesday Aug 30*
 * Create a detailed terrain with various landforms and textures. You will be presenting it on Wednesday.
-* If you haven't done so already, please set up a GitHub account and a Github repository for this club. 
+* If you haven't done so already, please set up a GitHub account and a Github repository for this club. Here is the [Guide](prep.md).
