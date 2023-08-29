@@ -27,4 +27,5 @@
 **Assignments** 
 
 *Due Sat Sep 2*
+
 * Create a documentation of your first assignment on Github
