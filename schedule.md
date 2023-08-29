@@ -19,3 +19,11 @@
 **Topics Covered**
 * Documentation on GitHub
 * Making objects with ProBuilder
+* Lighting (Directional, spotlight, area, point) & reflection probes
+* Prefabs
+* Setting up a 3D character
+* Animation
+
+**Assignments** 
+*Due Sat Sep 2*
+* Create a documentation of your first assignment on Github
