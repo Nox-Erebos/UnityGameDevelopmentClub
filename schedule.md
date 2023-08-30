@@ -12,7 +12,7 @@
 **Resources**
 * [Examples](https://alternaterealities.nyuadim.com/category/spring-2021/) of documentation
 * [Grass](https://assetstore.unity.com/packages/2d/textures-materials/nature/grass-flowers-pack-free-138810)
-* [Examples](https://github.com/pangnasun/ConnectionsLab) of Documentation 
+* More [Examples](https://github.com/pangnasun/ConnectionsLab) of Documentation 
 
 **Assignments** 
 
