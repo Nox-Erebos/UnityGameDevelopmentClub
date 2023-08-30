@@ -24,6 +24,9 @@
 * Setting up a 3D character
 * Animation
 
+**Resources**
+* [Examples](https://alternaterealities.nyuadim.com/category/spring-2021/) of documentation
+
 **Assignments** 
 
 *Due Sat Sep 2*
