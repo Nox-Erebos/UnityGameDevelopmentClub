@@ -17,17 +17,11 @@
 
 *Due Wed Sep 13*
 
-* Create a documentation of your first assignment on Github
-  - What steps did you take to create your work?
-  - What difficulties did you face?
-  - What would you do differently to make the process easier?
-  - What new things did you learn?
-* Write a short introduction in the README.md, which includes:
-  - A short intro about you
-  - What do you want to get out of this club?
-  - What are your hobbies?
-  - [Example](https://github.com/pangnasun/IMCapstoneProject)
-* Download from this [link](https://learn.unity.com/tutorial/project-files-prepare-for-the-unity-certified-associate-game-developer-exam-98049840928345928305983#). Name of the file : IntroTo3D-Assets.zip
+- Using what we have covered so far, which includes terrain, 3D character, animation, enemies spawning, User Interface (UI), Nav Mesh, etc., create a simple game to be presented on **Wednesday**. 
+- **Document** the process to create your game and upload on **Github**. Here are the questions to help guide your documentation:
+    - What did you do to make your game?
+    - What difficulties did you face? Were you able to fix them?
+    - Did you learn anything new? 
 ---
 
 ### Week 1 - Intro to Club and Getting Start with Unity
