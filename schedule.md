@@ -1,22 +1,21 @@
-### Week 2 - Documentation and Diving Deeper into Unity
+### Week 3 - Creating a 3D Game
 *Aug 30 & Sep 2*
 
 **Topics Covered**
-* Documentation on GitHub
-* Making objects with ProBuilder
-* Lighting (Directional, spotlight, area, point) & reflection probes
-* Prefabs
-* Setting up a 3D character
-* Animation
+* Spawning enemies
+* AI Navigation
+* C# Scripting
+* User Interface (UI)
+* Adding audio
 
 **Resources**
-* [Examples](https://alternaterealities.nyuadim.com/category/spring-2021/) of documentation
-* [Grass](https://assetstore.unity.com/packages/2d/textures-materials/nature/grass-flowers-pack-free-138810)
-* More [Examples](https://github.com/pangnasun/ConnectionsLab) of Documentation 
+* [Introduction to C# classes in Unity](https://www.youtube.com/watch?v=odKtPBsyFnw)
+* [Setting up 3D character, animation, and enemies](https://drive.google.com/file/d/1YMbEmFWQQtYhRnxtFm2iKtCs-lJPoblT/view?usp=share_link)
+* [Setting up User Interface and audio](https://drive.google.com/file/d/1MVRGakUf1B1naQe3dSPSdRV1R4PkA9eE/view?usp=share_link)
 
 **Assignments** 
 
-*Due Sat Sep 2*
+*Due Wed Sep 13*
 
 * Create a documentation of your first assignment on Github
   - What steps did you take to create your work?
