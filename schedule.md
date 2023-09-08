@@ -17,8 +17,8 @@
 
 *Due Wed Sep 13*
 
-- Using what we have covered so far, which includes terrain, 3D character, animation, enemies spawning, User Interface (UI), Nav Mesh, etc., create a simple game to be presented on **Wednesday**. 
-- **Document** the process to create your game and upload on **Github**. Here are the questions to help guide your documentation:
+- Using what we have covered so far, which includes terrain, 3D character, animation, enemies spawning, User Interface (UI), Nav Mesh, etc., create a **simple game** to be presented on **Wednesday**. 
+- **Document** the process to create your game and **upload on Github**. Here are the questions to help guide your documentation:
     - What did you do to make your game?
     - What difficulties did you face? Were you able to fix them?
     - Did you learn anything new? 
