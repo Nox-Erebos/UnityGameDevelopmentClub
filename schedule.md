@@ -71,3 +71,18 @@
   - [Example](https://github.com/pangnasun/IMCapstoneProject)
 * Download from this [link](https://learn.unity.com/tutorial/project-files-prepare-for-the-unity-certified-associate-game-developer-exam-98049840928345928305983#). Name of the file : IntroTo3D-Assets.zip
 
+### Week 4 - Creating a 3D & 2D Game  
+*Sep 13 & Sep 16*
+
+**Topics Covered**
+* C# Scripting
+* User Interface (UI)
+* 2D Environment
+* Sprites
+* Sprite Editor
+
+**Assignments** 
+
+*Due Sat Sep 16*
+
+* Download from this [link](https://learn.unity.com/tutorial/project-files-prepare-for-the-unity-certified-associate-game-developer-exam-98049840928345928305983#). Name of the file : IntroToMobile-Assets.zip
